@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
 
 /******************************************************************************
  *  Compilation:  javac Queens.java
